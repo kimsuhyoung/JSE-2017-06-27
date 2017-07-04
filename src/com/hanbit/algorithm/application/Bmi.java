@@ -7,7 +7,7 @@ public static void main(String[] args){
        System.out.print("나의 체질량지수(BMI)는?\n\n");
        System.out.print("다음은 위의 공식을 스크립트를 이용해 프로그램한 것이다. 이 프로그램을 통해 체질량지수를 산출                                        할 수 있다.\n\n");
               
-       System.out.print("신장");
+       System.out.print("신장\n");
             double high=s.nextDouble(); 
        System.out.print("m(미터)\n");
        System.out.print("(주의: 키가 179cm일 경우 1.79로 표기)\n\n");              

@@ -7,8 +7,8 @@ public class Time{
 				
 		System.out.print("초를 시간과 분으로 바꾸어주는 프로그램입니다. \n");
 		System.out.print("초를 입력하여 주세요\n");
-		
 		int num=s.nextInt();
+		
 		int hours=num/3600;    
 		int minute=num%3600/60; 
 		int second=num%3600%60; 
